@@ -1,43 +1,44 @@
-*{
+* {
   margin: 0px autp;
   padding: 0;
   box-sizing: border-box;
   font-family: "Segoe UI", sans-serif;
 }
 
-body{
+body {
   background-color: #0d1117;
   color: #cacaca;
   line-height: 200%;
   margin: 20px;
 }
 
-header{
-  color: #8257E5;
+header {
+  color: #8257e5;
 }
 
-a, a:hover{
-  color: #8257E5;
+a,
+a:hover {
+  color: #8257e5;
   text-decoration: none;
 }
-a:hover{
+a:hover {
   text-decoration: underline;
   color: #5e25e2;
 }
 
-hr{
+hr {
   margin: 0px 0 10px;
   border: #30363d 1px solid;
 }
 
-h1{
+h1 {
   margin: 10px 0 5px;
 }
 
-footer img{
+footer img {
   margin: 10px;
 }
 
-nav{
+nav {
   line-height: 110%;
 }
