@@ -2,7 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 02 - 02
 </h1>
 <h2 align="center">
-	<a href="https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge02/"> Iniciante - Corrigindo bugs (02) 👀 </a>
+	<a href="https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge02/"> Iniciante - Corrigindo bugs (02) 👀 / Beginner - Fixing bugs (02) 👀 </a>
 </h2>
 
 <p align="center">
@@ -14,7 +14,9 @@
 ## About
 <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100">
 
-# 💻 Sobre o desafio
+# 💻 Sobre o desafio - About the challenge
+
+<h6>PT-BR</h6>
 
 Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 02.
 E, novamente, a surpresa ~~(não tão surpresa assim)~~ vem aí...  **👀**  
@@ -27,13 +29,36 @@ Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conc
 
 Para facilitar, vamos deixar o link do Figma [**aqui**](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1).
 
-## Código do desafio
+<h6>EN-US</h6>
+
+In this challenge, you will receive a code with the project developed during the Phase 02 classes. And, again, the surprise ~~(not so surprise)~~ is coming... 👀<br/> 
+The code underwent some changes in the main points addressed in this phase and, as we can see in the image below, it is no longer in the same way as Maykão left it.<br/> 
+
+Will you face this challenge and leave the site with the same face as before? 💜 It will be very important for your learning to review and apply these new concepts. <br/>
+
+****Remembering: try to challenge yourself and not look at the answer, but if you have any difficulties, you can go back to class and review the way it was developed!</br>
+
+To make it easier, let's leave the Figma link [**here**](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1).
+
+## Código do desafio - Challenge code
+
+<h6>PT-BR</h6>
 
 Abaixo você terá o código ~~(quebrado)~~ do desafio zipado. 
 
 [Código do desafio - Fase 02](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cae98c59-12ce-499d-9b19-9b2f64250e62/Untitled.zip)
 
 Boa sorte e boooooora codar! **🚀**
+
+<h6>EN-US</h6>
+
+
+Below you will have the ~~(broken)~~ code of the zipped challenge. </br>
+
+[Challenge code - Phase 02](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cae98c59-12ce-499d-9b19-9b2f64250e62/Untitled.zip) <br/>
+
+
+Good luck and let's code! **🚀**
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
