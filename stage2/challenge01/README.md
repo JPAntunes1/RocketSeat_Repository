@@ -37,7 +37,7 @@ Will you face this challenge and leave the site with the same face as before? **
 
 Try to challenge yourself and not look at the answer, but if you have any difficulties, you can go back to class and review the way it was developed!
 
-To make it easier, let's leave **[aqui](https://explorer-stage02-p01.vercel.app/)** the link of the project itself and [**aqui**](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01) the link of Figma.
+To make it easier, let's leave **[here](https://explorer-stage02-p01.vercel.app/)** the link of the project itself and [**here**](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01) the link of Figma.
 
 
 ## Código do desafio - Challenge code
