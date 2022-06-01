@@ -2,8 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 02 - 01
 </h1>
 <h2 align="center">
-	<a href="About
-https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge01/"> Iniciante - Corrigindo bugs (01) 👀 </a>
+	<a href="https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge01/"> Iniciante - Corrigindo bugs (01) 👀 </a>
 </h2>
 
 <p align="center">

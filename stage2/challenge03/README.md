@@ -2,8 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 02 - 03
 </h1>
 <h2 align="center">	
-	<a href="About
-https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge03/"> Intermediário - Semântica e acessibilidade. 💜 </a>	
+	<a href="https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge03/"> Intermediário - Semântica e acessibilidade. 💜 </a>	
 </h2>
 
 <p align="center">
