@@ -45,7 +45,7 @@ It will be very important for your learning to review and apply these new concep
 
 To make it easier, we'll leave the Figma link **[here](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1)** for you.
 
-## Código do desafio - Challege code
+## Código do desafio - Challenge code
 
 <h6>PT-BR</h6>
 
