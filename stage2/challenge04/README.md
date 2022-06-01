@@ -2,7 +2,8 @@
 	Rocketseat's Explorer Repository - Stage 02 - 04
 </h1>
 <h2 align="center">	
-	<a href="https://JPAntunes.github.io/RocketSeat_Repository/stage2/challenge02/"> Desafio avançado - Recriando layout </a>	
+	<a href="About
+https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge04/"> Desafio avançado - Recriando layout </a>	
 </h2>
 
 <p align="center">
