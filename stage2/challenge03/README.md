@@ -2,7 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 02 - 03
 </h1>
 <h2 align="center">	
-	<a href="https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge03/"> Intermediário - Semântica e acessibilidade. 💜 </a>	
+	<a href="https://jpantunes1.github.io/RocketSeat_Repository/stage2/challenge03/"> Intermediário - Semântica e acessibilidade. 💜 / Intermediate - Semantics and accessibility. 💜 </a>	
 </h2>
 
 <p align="center">
@@ -14,7 +14,9 @@
 ## About
 <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100">
 
-# 💻 Sobre o desafio
+# 💻 Sobre o desafio - About the challenge
+
+<h6>PT-BR</h6>
 
 Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização **correta** dos elementos do HTML.
 
@@ -28,13 +30,38 @@ Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conc
 
 Para facilitar, vamos deixar o link do Figma **[aqui](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1)** pra você.
 
-## Código do desafio
+<h6>EN-US</h6>
+
+We know that most of the content available on the internet today can be made accessible only with the **correct** use of HTML elements. </br>
+
+You will receive a code with the project developed during Phase 02, but, contrary to what was done in class, it **does not** have the correct semantics.
+As you can see in the image below, the page ~~(except the button)~~ continues to work normally, but when you open the code, you will find the HTML elements all messed up... **👀** </br> 
+
+Are you ready to face this challenge and make the site more accessible? **💜**
+It will be very important for your learning to review and apply these new concepts. <br/>
+
+
+****Remembering: try to challenge yourself and not look at the answer, but if you have any difficulties, you can go back to class and review the way it was developed! <br/>
+
+To make it easier, we'll leave the Figma link **[here](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1)** for you.
+
+## Código do desafio - Challege code
+
+<h6>PT-BR</h6>
 
 Abaixo você terá o código do desafio zipado:
 
 [Código do desafio - Acessibilidade](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/074e50c6-5bdf-4882-add6-b4443f3cd6d2/Untitled.zip)
 
 Boa sorte e boooooora codar! **🚀**
+
+<h6>EN-US</h6>
+
+Below you will have the zip code for the challenge: <br/>
+
+[Challenge Code - Accessibility](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/074e50c6-5bdf-4882-add6-b4443f3cd6d2/Untitled.zip) <br/>
+
+Good luck and let's code! **🚀**
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
