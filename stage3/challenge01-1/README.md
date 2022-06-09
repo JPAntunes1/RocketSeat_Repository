@@ -61,7 +61,7 @@ Did you think it would end here?👀
 
 We have a bonus for you! 😍 💜
 
-We know how much our students enjoy recreating a layout so we have **[mais um por aqui.](https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado/duplicate)**
+We know how much our students enjoy recreating a layout so we have **[one more here.](https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado/duplicate)**
 
 By clicking on the link, you will find another form option, a little more complex than the previous one.
 
