@@ -30,10 +30,16 @@ A repository to document the weekly Explorer program challenges
 <ul>
     <li> <a href='./stage2/' target='blank'>> Stage 02 </a>
         <ul>
-            <li> -> <a href='./stage2/challenge01' target='blank'> Challenge 01 </a></li>
-            <li> -> <a href='./stage2/challenge02' target='blank'> Challenge 02 </a></li>
-            <li> -> <a href='./stage2/challenge03' target='blank'> Challenge 03 </a></li>
-            <li> -> <a href='./stage2/challenge04' target='blank'> Challenge 04 </a></li>
+            <li> -> <a href='./stage2/challenge01' target='blank'> Challenge 1 </a></li>
+            <li> -> <a href='./stage2/challenge02' target='blank'> Challenge 2 </a></li>
+            <li> -> <a href='./stage2/challenge03' target='blank'> Challenge 3 </a></li>
+            <li> -> <a href='./stage2/challenge04' target='blank'> Challenge 4 </a></li>
+        </ul>
+    </li>
+    <br/>
+    <li> <a href='./stage3/' target='blank'>> Stage 03 </a>
+        <ul>
+            <li> -> <a href='./stage3/challenge01-1' target='blank'> Challenge 1.1 </a> </li>            
         </ul>
     </li>
     
