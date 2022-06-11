@@ -17,8 +17,8 @@
 # 💻 Sobre o desafio - About the challenge
 
 <h6>PT-BR</h6>
-E aí, curtiu aprender mais sobre formulários? 👀
-Bora colocar em prática tudo o que foi visto nessa primeira fase? 😍
+E aí, curtiu aprender mais sobre formulários? 👀 <br/><br/>
+Bora colocar em prática tudo o que foi visto nessa primeira fase? 😍<br/><br/>
 
 Você receberá um **[link](https://www.figma.com/file/Nws1KWB7DyXBw8L6wXb9mp/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio/duplicate)** com um layout de um formulário, como você pode ver logo abaixo:
 
@@ -29,7 +29,7 @@ Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conc
 
 Achou que acabaria por aqui? 👀
 
-Temos um bônus pra você! 😍 💜
+Temos um bônus pra você! 😍 💜<br/><br/>
 Sabemos o quanto os nosso alunos curtem recriar um layout então temos **[mais um por aqui.](https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado/duplicate)**
 Clicando no link, você encontra outra opção de formulário, um pouco mais complexa que o anterior.
 
@@ -47,8 +47,8 @@ Mas, lembre-se: quanto mais você praticar, mais fácil fica de absorver o conte
 Boa sorte e boooooora codar! **🚀**
 
 <h6>EN-US</h6>
-So, did you enjoy learning more about forms? 👀
-Let's put into practice everything that was seen in this first phase? 😍
+So, did you enjoy learning more about forms? 👀<br/><br/>
+Let's put into practice everything that was seen in this first phase? 😍<br/><br/>
 
 You will receive a **[link](https://www.figma.com/file/Nws1KWB7DyXBw8L6wXb9mp/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio/duplicate)** with a form layout, as you can see below:
 
@@ -59,7 +59,7 @@ It will be very important for your learning to review and apply these new concep
 
 Did you think it would end here?👀
 
-We have a bonus for you! 😍 💜
+We have a bonus for you! 😍 💜<br/>
 
 We know how much our students enjoy recreating a layout so we have **[one more here.](https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado/duplicate)**
 
