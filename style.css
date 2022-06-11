@@ -27,7 +27,7 @@ a:hover {
 }
 
 hr {
-  margin: 0px 0 10px;
+  margin: 0px 0 20px;
   border: #30363d 1px solid;
 }
 
@@ -43,4 +43,28 @@ nav {
   line-height: 110%;
 }
 
+.title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
+  text-transform: uppercase;
+}
 
+.subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+
+img{
+  height:20px;
+  
+}
+
+.arrow {
+  display: flex;
+  align-items: center;
+  gap: 10px
+}
+
+ul {
+  list-style: none;
+}
