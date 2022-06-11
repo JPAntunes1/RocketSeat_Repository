@@ -44,25 +44,24 @@ nav {
 }
 
 .title {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 22px;
   text-transform: uppercase;
 }
 
 .subtitle {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 24px;
 }
 
-img{
-  height:20px;
-  
+img {
+  height: 20px;
 }
 
 .arrow {
   display: flex;
   align-items: center;
-  gap: 10px
+  gap: 10px;
 }
 
 ul {
