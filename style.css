@@ -13,11 +13,10 @@ body {
 }
 
 header {
-  color: #8257e5;
+  color: #cacaca;
 }
 
-a,
-a:hover {
+a {
   color: #8257e5;
   text-decoration: none;
 }
