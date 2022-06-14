@@ -41,7 +41,7 @@ A repository to document the weekly Explorer program challenges
         <ul>
             <li> -> <a href='./stage3/challenge01-1' target='blank'> Challenge 1.1 </a> </li>
  	    <li> -> <a href='./stage3/challenge01-2' target='blank'> Challenge 1.2 </a></li>
-	<li> -> <a href='./stage3/challenge2' target='blank'> Challenge 2 </a></li>	
+	<li> -> <a href='./stage3/challenge02' target='blank'> Challenge 2 </a></li>	
         </ul>
     </li>
     
