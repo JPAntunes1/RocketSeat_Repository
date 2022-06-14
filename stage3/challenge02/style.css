@@ -1,0 +1,292 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  margin: auto;
+  background: #eff1ff;
+}
+
+
+/* header start */
+header {
+  background: #8e9aaf;
+  width: 100%;
+  height: 27.9rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3.2rem;
+}
+
+.logo {
+  padding: 3.2rem 12.3rem 0;
+}
+
+.logo img {
+  height: 13.7rem;
+
+  animation: logoturn;
+  animation-duration: 2s;
+}
+
+.brandName {
+  width: 100%;
+  text-align: center;
+  height: 4.9rem;
+  padding: 0.8rem 8.7rem;
+  background: #cbc0d3;
+}
+.brandName h1 {
+  font-family: "Staatliches";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 4rem;
+  line-height: 3.4rem;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+
+  animation: go-back;
+  animation-duration: 3s;
+}
+.brandName h1:hover {
+  color: #af509c;
+  cursor: pointer;
+}
+
+/* header end */
+
+/* main start */
+.wrapper {
+  max-width: 32rem;
+  margin: auto;
+  padding: 1.4rem 3.2rem 6rem;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper p {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  font-family: "Palanquin";
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.5rem;
+
+  color: #23053a;
+
+  animation: topdown;
+  animation-duration: 2s;
+}
+.wrapper p span {
+  color: #cf8fc2;
+  font-weight: bold;
+}
+
+.wrapper p span:hover {
+  color: #af509c;
+  cursor: pointer;
+}
+.cards {
+  margin-top: 6.3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3.2rem;
+  animation-name: downtop;
+  animation-duration: 2s;
+}
+.card-1 {
+  height: 25rem;
+  border-radius: 2rem;
+  position: relative;
+  transition: all 400ms;
+}
+
+.card-1:hover {
+  transform: scale(1.1);
+}
+
+.card-2 {
+  height: 45rem;
+  border-radius: 2rem;
+  position: relative;
+  transition: all 400ms;
+}
+
+.card-2:hover {
+  transform: scale(1.1);
+}
+.cards h2 {
+  font-family: "Staatliches";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 3.4rem;
+
+  text-align: center;
+
+  letter-spacing: 0.05em;
+
+  color: #4a4e69;
+
+  background: #feeafa;
+  border-radius: 2rem;
+
+  height: 3.5rem;
+  width: 11.2rem;
+
+  position: absolute;
+
+  top: 1.7rem;
+  right: 1.6rem;
+
+  animation-name: rightleft;
+  animation-duration: 2s;
+}
+
+.cards h2:hover {
+  background: #cf8fc2;
+  cursor: pointer;
+  transform: scale(1.2);
+  transition: all 400ms;
+  
+}
+
+/* main end */
+
+/* animation start */
+@keyframes topdown {
+  0% {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes downtop {
+  0% {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes rightleft {
+  0% {
+    opacity: 0;
+    transform: translateX(100px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes logoturn {
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes go-back {
+  0% {
+    transform: translateX(400px);
+    color: #af509c;
+  }
+  50% {
+    transform: translateX(-400px);
+    color: #af509c;
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* animation end*/
+
+/*media queries */
+
+
+
+@media (max-width: 420px) {  
+  header {
+    width: 100%;
+    margin: auto;
+  }
+
+  .logo{
+    margin:0
+  }
+  .wrapper p {
+    margin-top: 5rem;
+  }
+
+  .brandName h1 {
+    font-size: 3rem;
+    line-height: 3.4rem;
+    animation-duration: 2s;
+  }
+  .wrapper {
+    padding: 0 1rem;
+  }
+  @keyframes go-back {
+    0% {
+      transform: translateX(100px);
+      color: #af509c;
+    }
+    50% {
+      transform: translateX(-100px);
+      color: #af509c;
+    }
+
+    100% {
+      transform: translateX(0);
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .brandName h1 {
+    animation-duration: 3s;
+  }
+  @keyframes go-back {
+    0% {
+      transform: translateX(200px);
+      color: #af509c;
+    }
+    50% {
+      transform: translateX(-200px);
+      color: #af509c;
+    }
+
+    100% {
+      transform: translateX(0);
+    }
+  }
+}
